@@ -1,0 +1,26 @@
+.header {
+  font-style: 20px;
+  text-transform: uppercase;
+  line-height: 1.5;
+}
+
+.		a:hover,
+		a:focus,
+		a:active{
+		text-decoration: none;
+		}
+		button:focus,
+		input:focus,
+		a:focus,
+		textarea:focus {
+         outline: none;
+		}
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+		margin: 0;
+		}
